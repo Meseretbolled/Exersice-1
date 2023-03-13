@@ -12,7 +12,8 @@ int main() {
         for(int j = 1; j <= i; ++j) {
             cout << "* ";
         }
-        cout << endl;
+        cout <<endl;
+        cout <<This is the added code!;
     }
     return 0;
 }
